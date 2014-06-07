@@ -1,2 +1,2 @@
-QuechuaJs
+Quechua.js
 =========
